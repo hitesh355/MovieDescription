@@ -101,7 +101,7 @@ def search():
 
 root = Tk()
 root.geometry('1057x650+0+0')
-root.title('Movie Description created by Faizan Khan')
+root.title('Movie Description created by Hitesh Ku. Mahato')
 root.config(bg='hotpink')
 bgpic = PhotoImage(file='pic.png')
 bgLabel = Label(root, image=bgpic).place(x=0, y=0)
